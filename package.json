@@ -1,0 +1,34 @@
+{
+  "name": "m3e-skill",
+  "version": "1.0.0",
+  "description": "Material 3 Expressive master skill for OpenCode / Claude Code / Cursor — design, review, and implement polished Android UIs with Jetpack Compose.",
+  "type": "module",
+  "bin": {
+    "m3e-skill": "bin/install.mjs"
+  },
+  "files": [
+    "skills/",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "material-3",
+    "material-3-expressive",
+    "jetpack-compose",
+    "android",
+    "opencode",
+    "claude-code",
+    "skill"
+  ],
+  "author": "JusDots-Devs",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JusDots-Devs/m3e-skill.git"
+  },
+  "homepage": "https://github.com/JusDots-Devs/m3e-skill#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
