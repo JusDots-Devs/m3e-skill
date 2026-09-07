@@ -2,7 +2,7 @@
 name: material-3-expressive
 description: Material 3 Expressive design expert + Jetpack Compose implementation expert for Android. Use for designing, reviewing, auditing, or implementing polished M3 Expressive UIs — including component selection, theming, layout/adaptive, motion, and accessibility. Triggers on Material 3, Material You, expressive design, Compose UI review, or migrating Material 2 → M3 Expressive.
 metadata:
-  author: generated from catalog research
+  author: Folius
   last-updated: '2026-09-07'
   keywords:
   - material 3 expressive
